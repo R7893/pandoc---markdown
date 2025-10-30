@@ -5,3 +5,4 @@ Ova dokumentacija služi u svrhu primjene pandoca za konderziju datoteka, odnosn
 2. 🎃[Uvod u Markdown](docs/01-markdown-primjeri.md)
 
 ![tux](Tux.png)
+<img src=˝Tux.png˝ width=˝30%˝>
